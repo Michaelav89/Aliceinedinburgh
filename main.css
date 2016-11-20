@@ -19,3 +19,8 @@ h1 {
 .btn-pinterest {
 	background-color: #b62f26;
 	border-color: #b62f26;
+
+li {
+      display: inline;
+      padding: 0px 10px 0px 10px;
+    }
