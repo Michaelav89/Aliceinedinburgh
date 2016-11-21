@@ -5,7 +5,22 @@ h1 {
 	background: url('C:\Users\v1sturn7\Documents\Code First for Girls\clubcard.png');
 	font-size: 70px;
 }
+h2 {
+	text-align: center;
+}
 
+ul {
+      padding: 10px;
+      background: rgba(0,0,0,0.5);
+    }
+    li {
+      display: inline;
+      padding: 0px 10px 0px 10px;
+    }
+    article {
+      max-width: 500px;
+      padding: 20px;
+      margin: 0 auto;
 #social-buttons button {
 	color:white;
 }
