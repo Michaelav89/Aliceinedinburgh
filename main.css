@@ -1,4 +1,4 @@
-
+<style>
 h1 {
 	text-align: center;
 	color: pink;
@@ -21,6 +21,7 @@ ul {
       max-width: 500px;
       padding: 20px;
       margin: 0 auto;
+
 #social-buttons button {
 	color:white;
 }
@@ -40,3 +41,5 @@ ul {
       padding: 10px;
       background: rgba(0,0,0,0.5);  
     }
+
+    </style> 
