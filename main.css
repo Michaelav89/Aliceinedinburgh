@@ -3,11 +3,15 @@
  background-size: cover;
  }
 
-h1 {
-	text-align: center;
-	color: pink;
+.headertext {
+	padding:50px;
 	background: url('https://cdn.shopify.com/s/files/1/1071/1242/files/Ylfa_Gronvold_Illustrations_-_ipad_flamingo_flock.jpg?2135578015588501196');
 	background-size: cover;
+}
+h1 {
+	text-align: center;
+	color: #EC2BB4;
+	
 	font-size: 70px;
 }
 h2 {
