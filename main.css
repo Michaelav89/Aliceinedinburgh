@@ -1,4 +1,8 @@
 
+ body {background-image: url('https://s-media-cache-ak0.pinimg.com/564x/3d/d4/ca/3dd4ca8c4fc13e2c9cf8ab1a30d18ad3.jpg');
+ background-size: cover;
+ }
+
 h1 {
 	text-align: center;
 	color: pink;
@@ -46,4 +50,4 @@ ul {
       background: rgba(0,0,0,0.5);  
     }
 
-background image: url('https://s-media-cache-ak0.pinimg.com/564x/3d/d4/ca/3dd4ca8c4fc13e2c9cf8ab1a30d18ad3.jpg');
+
