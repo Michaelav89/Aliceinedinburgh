@@ -16,8 +16,8 @@ h2 {
 ul {
       padding: 10px;
       text-align: center;
-      background: rgba(5,0,0,0.5);
       color: rgba(0,0,0,0);
+      background: rgba(5,0,0,0.5);
     }
     li {
       display: inline;
@@ -44,10 +44,6 @@ ul {
 .btn-pinterest {
 	background-color: #b62f26;
 	border-color: #b62f26; {
-      
-ul {
-      padding: 10px;
-      background: rgba(0,0,0,0.5);  
-    }
+ 
 
 
