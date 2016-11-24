@@ -2,6 +2,11 @@
  body {background-image: url('https://s-media-cache-ak0.pinimg.com/564x/1d/41/17/1d411736273eda5f966749f0e023e957.jpg');
  background-size: cover;
  }
+ .headertext {
+	padding:50px;
+	background: url('https://cdn.shopify.com/s/files/1/1071/1242/files/Ylfa_Gronvold_Illustrations_-_ipad_flamingo_flock.jpg?2135578015588501196');
+	background-size: cover;
+}
 div {
   height: 200px;
   background-size: cover;
@@ -9,11 +14,17 @@ div {
   margin: 40px 0 0 0;
   border-radius: 12px;
 }
-.headertext {
-	padding:50px;
-	background: url('https://cdn.shopify.com/s/files/1/1071/1242/files/Ylfa_Gronvold_Illustrations_-_ipad_flamingo_flock.jpg?2135578015588501196');
-	background-size: cover;
+
+.first{
+  background-image: url("http://dash.ga.co/assets/firstcourse.jpg");
 }
+.second{
+  background-image: url("http://dash.ga.co/assets/secondcourse.jpg");
+}
+.third{
+  background-image: url("http://dash.ga.co/assets/dessertcourse.jpg");
+}
+
 h1 {
 	text-align: center;
 	color: #EC2BB4;
